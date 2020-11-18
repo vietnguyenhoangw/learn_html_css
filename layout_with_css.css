@@ -1,0 +1,140 @@
+@media (max-width: 1600px) {
+    header {
+        background-color: #00c04f;
+        color: white;
+        padding: 5px;
+        border-radius: 5px;
+        text-align: center;
+    }
+    nav {
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+    .article-container {
+        width: 100%;
+        float: left;
+        padding: 1%;
+        height: auto;
+        text-align: center;
+        background-color: #e3e3e3;
+    }
+    aside {
+        width: 100%;
+        float: left;
+        border-radius: 5px;
+        background-color: #2099EB;
+        color: white;
+        float: left;
+        padding: 1%;
+        margin: 10px 0px 0px 0px;
+        text-align: center;
+    }
+    footer {
+        background-color: gainsboro;
+        width: 100%;
+        float: left;
+        text-align: center;
+        border-radius: 5px;
+        margin: 10px 0px 0px 0px;
+    }
+    .article-ul {
+        width: 100%;
+        float: left;
+    }
+    ul{
+        padding: 0;
+        list-style-type: none;
+    }
+    .article-ul li {
+        list-style-type: none;
+        margin: 0px 0px 10px 0px;
+    }
+    a {
+        color: black;
+    }
+    .nav-container li{
+        list-style-type: none;
+        padding: 10px;
+        margin-bottom: 5px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+    .nav-container li:hover{
+        list-style-type: none;
+        padding: 10px;
+        margin-bottom: 5px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        background-color: #00c04f;
+    }
+}
+@media (min-width: 1600px) {
+    header {
+        background-color: #00c04f;
+        color: white;
+        padding: 5px;
+        border-radius: 5px;
+    }
+    nav {
+        width: 23%;
+        float: left;
+    }
+    .article-container {
+        width: 51%;
+        float: left;
+        padding: 1%;
+        height: auto;
+    }
+    aside {
+        height: 500px;
+        width: 22%;
+        float: left;
+        border-radius: 5px;
+        background-color: #2099EB;
+        color: white;
+        float: left;
+        padding: 1%;
+        margin: 5px 0px 5px 0px;
+    }
+    footer {
+        background-color: gainsboro;
+        width: 100%;
+        float: left;
+        text-align: center;
+        border-radius: 5px;
+    }
+    .article-ul {
+        width: 100%;
+        float: left;
+    }
+    ul{
+        padding: 0;
+        list-style-type: none;
+    }
+    .article-ul li {
+        float: left;
+        width: 10%;
+        list-style-type: none;
+    }
+    a {
+        color: black
+    }
+    .nav-container li{
+        list-style-type: none;
+        padding: 10px;
+        margin-bottom: 5px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+    .nav-container li:hover{
+        list-style-type: none;
+        padding: 10px;
+        margin-bottom: 5px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        background-color: #00c04f;
+    }
+}
+
+
