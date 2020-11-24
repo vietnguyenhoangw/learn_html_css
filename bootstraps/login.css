@@ -1,0 +1,51 @@
+.body-container {
+}
+
+.footer-container {
+    
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+#full {
+    height: 80%;
+    background: #f0f2f5
+}
+
+#footer {
+    height: 20%;
+    font-size: 15px;
+}
+
+#footer p{
+    margin: 0px;
+    color:#7a7a7a;
+    margin: 10px 0px 10px 0px;
+}
+
+#footer-first-text{
+    border-bottom: 1px solid #dbdbdb;
+}
+
+#footer-second-text{
+    line-height: 25px;
+}
+
+.form-container {
+    background-color: white;
+}
+
+#forgot-password {
+    text-align: center;
+    padding: 20px 0px 10px 0px;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+#create-account {
+    margin: 20px 0px 10px 0px;
+}
